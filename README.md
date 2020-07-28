@@ -1,1 +1,1 @@
-![stats](https://github-readme-stats.vercel.app/api?username=hXR16F&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=hXR16F&show_icons=true&theme=vue)
