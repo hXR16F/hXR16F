@@ -9,14 +9,11 @@ Started coding when I was 9.*
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-**Languages that I love:**
-- Batch
-- Python
-
-**Other languages:**
-- AutoIt
-- Lua
-- HTML, CSS, JS
+| Languages that I love | Other languages |
+|--|--|
+| Batch | AutoIt |
+| Python | Lua |
+| | HTML, CSS, JS |
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=hXR16F&show_icons=true&count_private=true&theme=darcula&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=18d788ff">
