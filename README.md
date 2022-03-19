@@ -1,4 +1,4 @@
-*Hello everybody, I'm hXR16F.\
+*Hello everybody, I'm hXR16F (aka zaktabyte).\
 \
 Hobbyist programmer and technology enthusiast from Poland.\
 Started coding when I was 9.*
