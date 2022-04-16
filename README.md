@@ -19,10 +19,11 @@ Started coding when I was 9.*
 * Lua
 * HTML, CSS, JS, PHP
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=hXR16F&show_icons=true&count_private=true&theme=darcula&hide_border=false&include_all_commits=true&bg_color=00000000&title_color=18d788ff) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hXR16F&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&title_color=18d788ff&langs_count=10&hide=php,css,roff&exclude_repo=hXR16F.github.io) -->
-
 **Contact:**\
 <a href="https://discord.com/users/318133165791379457"><img src="https://dcbadge.vercel.app/api/shield/318133165791379457?compact=true" /></a>
 <a href="mailto:hxr16f.ar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hXR16F&show_icons=true&count_private=true&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hXR16F&langs_count=6&hide=php,css,html,roff&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117" height="180">
+</p>
