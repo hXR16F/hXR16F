@@ -14,7 +14,7 @@ Started coding when I was 9.*
 * Batch
 * Python
 
-**Other languages:**
+**Other languages and not only:**
 * AutoIt
 * Lua
 * HTML, CSS, JS, PHP
