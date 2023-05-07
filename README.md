@@ -7,12 +7,12 @@ Started coding when I was 9.*
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Languages that I love:**
-* Batch
 * Python
 
 **Other languages and not only:**
 * AutoIt
 * Lua
+* Batch
 * HTML, CSS, JS, PHP
 
 **Contact:**\
