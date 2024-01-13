@@ -13,7 +13,7 @@ Started coding when I was 9.*
 * AutoIt
 * Lua
 * Batch
-* HTML, CSS, JS, PHP
+* HTML, CSS, JS
 
 **Contact:**\
 <a href="https://discord.com/users/318133165791379457"><img src="https://dcbadge.vercel.app/api/shield/318133165791379457?compact=true" /></a>
