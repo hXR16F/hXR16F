@@ -56,8 +56,6 @@ I enjoy building things from scratch, automating tasks, and diving into the worl
 * https://www.cyberforum.ru/viruses/thread3150560.html
 * https://appspyfree.com/facebook-hack/
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hXR16F&color=blue&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hXR16F&color=blue&abbreviated=true&style=pixel" alt="Profile Views" />
 </p>
