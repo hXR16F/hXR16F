@@ -59,5 +59,5 @@ I enjoy building things from scratch, automating tasks, and diving into the worl
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hXR16F&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hXR16F&color=blue&abbreviated=true" alt="Profile Views" />
 </p>
