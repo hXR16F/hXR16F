@@ -28,6 +28,9 @@ I enjoy building things from scratch, automating tasks, and diving into the worl
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-303030?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-303030?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Brave-FF7139?style=flat&logo=brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCodium-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
