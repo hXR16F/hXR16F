@@ -32,15 +32,17 @@ I enjoy building things from scratch, automating tasks, and diving into the worl
   <img src="https://img.shields.io/badge/ESP8266-303030?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-303030?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Brave-FF7139?style=flat&logo=brave&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCodium-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-A6B91A?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Regex-CC342D?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DarkBox-222222?style=flat&logo=gnometerminal&logoColor=white" alt="DarkBox"/>
+  <img src="https://img.shields.io/badge/DarkBox-222222?style=flat&logo=gnometerminal&logoColor=white"/>
 </p>
 
 ---
