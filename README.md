@@ -1,4 +1,4 @@
-![hXR16F](./github-header-image.png)
+![hXR16F](./github-header-banner.png)
 
 Self-taught hobbyist programmer from Poland. I wrote my first lines of code at 9 out of curiosity and never really stopped.
 
