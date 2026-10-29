@@ -1,4 +1,4 @@
-![hXR16F](./github-header-banner.png)
+![zaktabyte](./github-header-banner.png)
 
 Self-taught hobbyist programmer from Poland. I wrote my first lines of code at 9 out of curiosity and never really stopped.
 
@@ -33,18 +33,24 @@ I learn by building: if I don't understand something, I take it apart and make m
       <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
       <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Regex-5C5C5C?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Regex"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Apidog-7B61FF?style=for-the-badge&logo=swagger&logoColor=white" alt="Apidog"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
     </td>
   </tr>
   <tr>
-    <td><b>Systems</b></td>
+    <td><b>Systems &amp; DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
       <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+      <img src="https://img.shields.io/badge/Mikr.us-1F6FEB?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Mikr.us"/>
     </td>
   </tr>
   <tr>
@@ -67,6 +73,7 @@ I learn by building: if I don't understand something, I take it apart and make m
       <img src="https://img.shields.io/badge/Hashcat-8A2BE2?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Hashcat"/>
       <img src="https://img.shields.io/badge/John%20the%20Ripper-B22222?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="John the Ripper"/>
       <img src="https://img.shields.io/badge/THC--Hydra-8B0000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="THC-Hydra"/>
+      <img src="https://img.shields.io/badge/Cheat%20Engine-2D2D2D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Cheat Engine"/>
     </td>
   </tr>
   <tr>
