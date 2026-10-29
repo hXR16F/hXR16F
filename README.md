@@ -1,4 +1,7 @@
-![zaktabyte](./github-header-banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+  <img alt="zaktabyte" src="header-light.png">
+</picture>
 
 Self-taught hobbyist programmer from Poland. I wrote my first lines of code at 9 out of curiosity and never really stopped.
 
